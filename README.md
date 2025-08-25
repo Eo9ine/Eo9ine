@@ -13,6 +13,11 @@
 I am a passionate and versatile **FullStack Developer** with a strong affinity for backend architecture and logic. I thrive on building robust, scalable, and efficient server-side solutions. My journey in software development has equipped me with a diverse technical skill set, allowing me to adapt and excel in various environments.
 
 I am currently channeling my expertise into **Biblionet**, an ambitious project that reflects my passion for creating meaningful digital experiences.
+<p align="center">
+  <a href="https://github.com/Eo9ine/biblionet-repo">
+    <img src="https://img.shields.io/badge/Explore_BiblioNet_Repository-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=FF7F50" alt="BiblioNet Repo" width="400px"/>
+  </a>
+</p>
 
 ---
 
@@ -98,6 +103,20 @@ I am currently developing **Biblionet**, a comprehensive online platform designe
 *   **Containerization:** Utilizing **Docker** for consistent environments and easy deployment.
 *   **Email Services:** Integrating mail services for user notifications and engagement.
 *   *Frontend to be implemented (Potential for Angular/TypeScript).*
+
+  <p align="center">
+  <a href="https://github.com/Eo9ine/biblionet-repo">
+    <img src="https://img.shields.io/badge/Explore_BiblioNet_Repository-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=FF7F50" alt="BiblioNet Repo" width="400px"/>
+  </a>
+</p>
+
+**🔨 Core Tech Stack:** `Spring Boot` `Spring Security` `JWT` `Docker` `PostgreSQL` `JPA` `Lombok`
+
+**✨ Key Features:**
+- Secure User Authentication & Authorization
+- Role-Based Operations (USER & ADMIN)
+- Full Book CRUD & Borrowing System
+- Fully Containerized with Docker Compose
 
 > **Status:** 🚧 Active Development - In Progress
 

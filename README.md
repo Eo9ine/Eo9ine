@@ -66,6 +66,25 @@ A production-ready RESTful API built with Spring Boot for managing job applicati
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Eo9ine/Job-Application-SpringBootAPI/tree/main)
 
+
+### 🎮 Angular Gaming E-commerce Frontend
+A modern, responsive frontend for a gaming digital store, built with **Angular 19** to demonstrate advanced frontend architecture, state management, and UI/UX best practices.
+
+- **🛠️ Tech Stack:** **Angular 19, TypeScript, RxJS, HTML5, CSS3**
+- **✨ Key Features:**
+  - **Dynamic Product Catalog:** Display of games with filtering by genre, price, and platform.
+  - **Shopping Cart Functionality:** Full cart management with add, remove, and update quantity features.
+  - **Fully Responsive Design:** Optimized experience for desktop, tablet, and mobile devices.
+  - **Modern Angular Practices:** Implementation of Components, Services, Routing, and Reactive programming with RxJS.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Eo9ine/Angular-Gaming-Ecommerce-site)
+
+<p align="center">
+  <a href="https://github.com/Eo9ine?tab=repositories">
+    <img src="https://img.shields.io/badge/VIEW_MORE_MY_PROJECTS-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blueviolet" alt="View More Projects" width="400px">
+  </a>
+</p>
+
 ---
 
 ## 🔭 Current Project: Biblionet

@@ -54,6 +54,18 @@ A comprehensive web application designed to digitize school operations, includin
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/proffessorneo/SchoolManagementSystem)
 *This project is hosted on a previous GitHub account. The code is available for review.*
 
+### 📄 Job-Application API
+A production-ready RESTful API built with Spring Boot for managing job applications. This project was developed to practice core backend concepts with a focus on using a robust, persistent database system.
+
+- **🔨 Tech Stack:** **Java, Spring Boot, Spring Data JPA, PostgreSQL, Maven**
+- **✨ Key Features:**
+  - **RESTful Design:** Implements standard HTTP methods (GET, POST, PUT, DELETE, PATCH) for full CRUD functionality.
+  - **Persistent Data Storage:** Utilizes **PostgreSQL** for reliable, persistent data management, moving beyond in-memory solutions.
+  - **Application Tracking:** Allows creating and updating job applications with various statuses (e.g., APPLIED, INTERVIEW, REJECTED).
+  - **API Documentation:** Automatic interactive API documentation provided by Springdoc OpenAPI (Swagger UI).
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Eo9ine/Job-Application-SpringBootAPI/tree/main)
+
 ---
 
 ## 🔭 Current Project: Biblionet

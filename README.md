@@ -59,8 +59,10 @@ I am currently developing **Biblionet**, a comprehensive online platform designe
 
 <p align="center">
   <a href="https://github.com/Eo9ine">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eo9ine&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true" alt="Neo's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eo9ine&theme=nightowl&hide_border=true&layout=compact&langs_count=8&exclude_repo=Eo9ine" alt="Most Used Languages" />
+    <!-- The first card: General Stats -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eo9ine&show_icons=true&theme=nightowl&hide_border=true&count_private=true&include_all_commits=true&custom_title=Neo's%20GitHub%20Stats" alt="Neo's GitHub Stats" />
+    <!-- The second card: Top Languages. NOTE: 'exclude_repo' parameter is removed -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eo9ine&theme=nightowl&hide_border=true&layout=compact&langs_count=6&custom_title=My%20Top%20Languages" alt="Most Used Languages" />
   </a>
 </p>
 

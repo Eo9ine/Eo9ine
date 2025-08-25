@@ -39,6 +39,23 @@ I am currently channeling my expertise into **Biblionet**, an ambitious project 
 
 ---
 
+## 🚀 Featured Projects
+
+### 🏫 School Management System (PHP)
+A comprehensive web application designed to digitize school operations, including student registration, attendance tracking, grade management, and user roles for administrators, teachers, and parents.
+
+- **🔧 Tech Stack:** **PHP, MySQL, HTML5, CSS3, JavaScript, Bootstrap**
+- **✨ Key Features:**
+  - **Multi-Role User System:** Secure login and tailored dashboards for Admins, Teachers, and Students.
+  - **Core Management:** Efficient handling of student records, class schedules, attendance, and academic reports.
+  - **Responsive Design:** A clean and user-friendly interface that works seamlessly on desktop and mobile devices.
+  - **Dynamic Data Handling:** CRUD operations powered by PHP and MySQL for all essential data.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/proffessorneo/SchoolManagementSystem)
+*This project is hosted on a previous GitHub account. The code is available for review.*
+
+---
+
 ## 🔭 Current Project: Biblionet
 
 I am currently developing **Biblionet**, a comprehensive online platform designed for book enthusiasts.
